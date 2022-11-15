@@ -40,6 +40,19 @@ Alternatively, you can just download the complete zip file and extract the folde
 Step 2:
 Copy All Project files and run using VSCODE. HTML can be viewed in browser.
 
+## Usage
+
+```
+npm install
+npm run build
+```
+
+## Development
+
+```
+npm run start
+```
+
 
 ## Author
 
