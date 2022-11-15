@@ -51,8 +51,7 @@ npm run build
 
 In development environment use the following command:
 ```
-npm install
-npm run build
+npm start
 ```
 
 
