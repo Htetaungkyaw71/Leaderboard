@@ -45,9 +45,9 @@ Copy All Project files and run using VSCODE. HTML can be viewed in browser.
 
 👤 **Htetaungkyaw**
 
-- GitHub: [@githubhandle](https://github.com/Htetaungkyaw71)
-- Twitter: [@twitterhandle](https://twitter.com/htetaun91907337)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/htet-aung-kyaw-9a77271a7/)
+- GitHub: [@github](https://github.com/Htetaungkyaw71)
+- Twitter: [@twitter](https://twitter.com/htetaun91907337)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/htet-aung-kyaw-9a77271a7/)
 
 
 ## 🤝 Contributing
