@@ -39,27 +39,4 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 });
 
-// const render = (data) => {
-//   const li = document.createElement('li');
-//   li.innerHTML = `${data.user} : ${data.score}`;
-//   li.className = 'list-item';
-//   list.appendChild(li);
-// };
 
-// async function postData(data) {
-//   const response = await fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores`, {
-//     method: 'POST',
-//     headers: {
-//       'Content-Type': 'application/json',
-//     },
-//     body: JSON.stringify(data),
-//   });
-//   return response.json();
-// }
-
-// async function fetchData() {
-//   const response = await fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores`, {
-//     method: 'GET',
-//   });
-//   return response.json();
-// }
