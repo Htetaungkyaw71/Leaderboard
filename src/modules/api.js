@@ -1,7 +1,7 @@
 export default class Api {
   constructor(wrapper) {
-    this.id = process.env.SECRET_KEY;
-    this.url = `${process.env.URL}${this.id}/scores`;
+    this.id = 'q9yLkPTuqwnDTYXt3kuB';
+    this.url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${this.id}/scores`;
     this.wrapper = wrapper;
   }
 
